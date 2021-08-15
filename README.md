@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keshasha
-- 👀 I’m interested in Deep learning, Computer Vision
+- 👀 I’m interested in Web, Deep learning, Computer Vision
 - 🌱 I’m currently learning IT/AWS
-- 🇨🇭 I'm currently looking for a job in Switzerland
+- 🇨🇭 I'm working for pension as software engineer
 
 <!---
 keshasha/keshasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
